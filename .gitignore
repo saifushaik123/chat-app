@@ -1,0 +1,13 @@
+
+# Ignore node_modules folders everywhere
+**/node_modules/
+
+# Optional: Ignore environment files (good practice)
+**/.env
+
+# Optional: Ignore log files
+*.log
+
+# Optional: Ignore build folders (if you use build tools)
+**/dist/
+**/build/
